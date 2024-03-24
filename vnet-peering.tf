@@ -25,7 +25,7 @@ variable "sec_vnet_name" {
 
 variable "sec_vnet_id" {
   type = string
-  default = "168129ef-48dc-4dc8-82ce-36780f747085"
+  default = "/subscriptions/04ea53c9-4757-41b3-a7f4-c26f6f1b8b81/resourceGroups/security/providers/Microsoft.Network/virtualNetworks/security"
 }
 
 variable "sec_resource_group" {
