@@ -5,7 +5,7 @@ variable "sec_sub_id" {
 
 variable "sec_client_id" {
   type = string
-  default = "474ede1b-4e90-42f7-85c7-2da417018dd5"
+  default = "eee491d1-54f9-440f-aaf7-d7f270917fa1"
 }
 
 variable "sec_client_secret" {
