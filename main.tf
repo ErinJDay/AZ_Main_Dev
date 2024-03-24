@@ -16,7 +16,7 @@ terraform {
 #############################################################################
 
 variable "resource_group_name" {
-  type = string
+  type = "vnet-main"
 }
 
 ### Declare Subsctipion Id Variable in TF CLoud
