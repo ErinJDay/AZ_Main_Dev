@@ -20,11 +20,6 @@ variable "resource_group_name" {
 default = "vnet-main"
 }
 
-### Declare Subsctipion Id Variable in TF CLoud
-variable "subscription_id" {
-  type = string
-}
-
 variable "location" {
   type    = string
   default = "westus2"
